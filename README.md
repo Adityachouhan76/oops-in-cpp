@@ -1,1 +1,1 @@
-# oops-in-cpp
+# oops inhertance-in-cpp
